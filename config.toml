@@ -1,6 +1,6 @@
 # Page settings
 
-baseurl = "https://ike.id.au/"
+baseurl = "https://tmp.ike.id.au/"
 languageCode = "en-au"
 title = "Ike Johnson-Woods"
 theme = "orbit"
