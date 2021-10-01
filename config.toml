@@ -52,15 +52,15 @@ disable404 = true
 
         [[params.contact.list]]
         class = "linkedin"
-        icon = "fa-linkedin"
-        url = "//linkedin.com/in/johndoe"
-        title = "linkedin.com/in/johndoe"
+        icon = "fa-instagram"
+        url = "https://instagram.com/NotActuallyTerry"
+        title = "NotActuallyTerry"
 
         [[params.contact.list]]
         class = "github"
         icon = "fa-github"
-        url = "//github.com/NotActuallyTerry"
-        title = "github.com/NotActuallyTerry"
+        url = "https://github.com/NotActuallyTerry"
+        title = "NotActuallyTerry"
 
     [params.education]
         enable = true
