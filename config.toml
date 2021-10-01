@@ -41,7 +41,7 @@ disable404 = true
         [[params.contact.list]]
         class = "email"
         icon = "fa-envelope"
-        url = "mailto: contact@ike.id.au"
+        url = "mailto:contact@ike.id.au"
         title = "contact@ike.id.au"
 
 #        [[params.contact.list]]
@@ -51,16 +51,16 @@ disable404 = true
 #        title = "+61 457 036 942"
 
         [[params.contact.list]]
-        class = "linkedin"
+        class = "instagram"
         icon = "fa-instagram"
         url = "https://instagram.com/NotActuallyTerry"
-        title = "NotActuallyTerry"
+        title = "@NotActuallyTerry"
 
         [[params.contact.list]]
         class = "github"
         icon = "fa-github"
         url = "https://github.com/NotActuallyTerry"
-        title = "NotActuallyTerry"
+        title = "@NotActuallyTerry"
 
     [params.education]
         enable = true
