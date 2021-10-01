@@ -24,7 +24,7 @@ disable404 = true
     # are available. Also the source LESS files are included so
     # it’s quick and easy to change the styling and colour scheme.
 
-    styles = "styles.css"
+    styles = "styles-6.css"
 
 # Sidebar sections
 
@@ -44,11 +44,11 @@ disable404 = true
         url = "mailto: contact@ike.id.au"
         title = "contact@ike.id.au"
 
-        [[params.contact.list]]
-        class = "phone"
-        icon = "fa-phone"
-        url = "tel:+61457036942"
-        title = "+61 457 036 942"
+#        [[params.contact.list]]
+#        class = "phone"
+#        icon = "fa-phone"
+#        url = "tel:+61457036942"
+#        title = "+61 457 036 942"
 
         [[params.contact.list]]
         class = "linkedin"
